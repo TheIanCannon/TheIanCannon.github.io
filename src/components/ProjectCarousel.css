@@ -1,0 +1,120 @@
+.ProjectCarousel {
+  display: grid;
+  justify-content: center;
+}
+
+.pTitle, .pDesc {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  font-weight: bolder;
+}
+
+.carousel-inner img {
+  margin: auto;
+  display: flex;
+  justify-content: center
+}
+
+.carousel {
+  width: 500px;
+  height: 500px;
+}
+
+.carousel-indicators {
+  visibility: hidden;
+}
+
+.carousel .carousel-control-prev-icon {
+  visibility: hidden;
+}
+.carousel .carousel-control-next-icon {
+  visibility: hidden;
+}
+
+.carousel:hover .carousel-control-prev-icon {
+  position: fixed;
+  height: 50px;
+  width: 50px;
+  outline: black;
+  background-color: rgba(0, 0, 0, 1);
+  background-size: 100%, 100%;
+  border-radius: 50%;
+}
+.carousel:hover .carousel-control-next-icon {
+  position: fixed;
+  height: 50px;
+  width: 50px;
+  outline: black;
+  background-color: rgba(0, 0, 0, 1);
+  background-size: 100%, 100%;
+  border-radius: 50%;
+}
+
+@media screen and (max-width: 768px) {
+		.carousel, .carousel-inner img {
+    left: 3.5%;
+				width: 475px;
+				height: auto;
+		}
+ 
+  .urlDesc{
+    width: 75%;
+    position: relative;
+    left: 12vw;
+  }
+		.carousel:hover .carousel-control-prev-icon {
+				height: 35px;
+				width: 35px;
+		}
+		.carousel:hover .carousel-control-next-icon {
+				height: 35px;
+				width: 35px;
+		}
+}
+
+@media screen and (max-width: 480px) {
+		.carousel, .carousel-inner img {
+    left: 21%;
+				width: 320px;
+				height: auto;
+		}
+ 
+  .urlDesc{
+    scale: 80%;
+    width: 50%;
+    position: relative;
+    left: 35vw;
+  }
+		.carousel:hover .carousel-control-prev-icon {
+				height: 22px;
+				width: 22px;
+		}
+		.carousel:hover .carousel-control-next-icon {
+				height: 22px;
+				width: 22px;
+		}
+}
+
+@media screen and (max-width: 320px) {
+		.carousel,   .carousel-inner img {
+    left: 10%;
+				width: 150px;
+				height: auto;
+		}
+ 
+  .urlDesc{
+    scale: 75%;
+    width: 40%;
+    position: relative;
+    left: 65vw;
+  }
+		.carousel:hover .carousel-control-prev-icon {
+				height: 15px;
+				width: 15px;
+		}
+		.carousel:hover .carousel-control-next-icon {
+				height: 15px;
+				width: 15px;
+		}
+}
