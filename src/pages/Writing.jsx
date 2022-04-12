@@ -40,13 +40,13 @@ export default function Writing() {
 										</p>
           <ul className="WritingList">
 												<li>
-														<a href="username.github.io/PDFs/Tear.pdf">Sample 1: The Science Behind Tear Gas: Conceptual/Reference/Task Document</a>
+														<a href="theiancannon.github.io/PDFs/Tear.pdf">Sample 1: The Science Behind Tear Gas: Conceptual/Reference/Task Document</a>
 												</li>
 												<li>
-														<a href="username.github.io/PDFs/Smoke.pdf">Sample 2: MacGyver Smoke Powder lab procedure: Conceptual/Reference/Task Document</a>
+														<a href="theiancannon.github.io/PDFs/Smoke.pdf">Sample 2: MacGyver Smoke Powder lab procedure: Conceptual/Reference/Task Document</a>
 												</li>
 												<li>
-														<a href="username.github.io/PDFs/Give.pdf">Sample 3: Readme.MD for a charity app: Conceptual/List/Task Document</a>
+														<a href="theiancannon.github.io/PDFs/Give.pdf">Sample 3: Readme.MD for a charity app: Conceptual/List/Task Document</a>
 												</li>
           </ul>
         </div>
