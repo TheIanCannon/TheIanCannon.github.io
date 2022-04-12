@@ -1,8 +1,8 @@
 import Navbar from "../components/Navbar.jsx";
 import Copyright from "../components/Copyright.jsx";
-import Tear from "../../PDFs/Tear.pdf";
-import Smoke from "../../PDFs/Smoke.pdf";
-import Give from "../../PDFs/Give.pdf";
+import Tear from "../PDFs/Tear.pdf";
+import Smoke from "../PDFs/Smoke.pdf";
+import Give from "../PDFs/Give.pdf";
 
 export default function Writing() {
   return (
