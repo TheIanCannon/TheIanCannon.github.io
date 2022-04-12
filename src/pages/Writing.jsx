@@ -36,7 +36,7 @@ export default function Writing() {
         </p>
         <div id="TechWriting">
 										<p>
-												As a budding Technical Writer, I have continued to write in less conversational, more clarified formats. Click the links below to view samples in PDF format.
+												As a budding Technical Writer, I have continued to write in less conversational, more structured formats. Click the links below to view samples in PDF format.
 										</p>
           <ul className="WritingList">
 												<li>
