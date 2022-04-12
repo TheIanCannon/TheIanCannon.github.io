@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c3c187a4.css",
-    "main.js": "/static/js/main.af44ca0d.js",
+    "main.js": "/static/js/main.79c5028b.js",
     "static/js/787.848ff6fc.chunk.js": "/static/js/787.848ff6fc.chunk.js",
     "static/media/croc.mp4": "/static/media/croc.fd2da9f47bf76c74edbf.mp4",
     "static/media/mountain.mp4": "/static/media/mountain.b9298400e35c5700e9ea.mp4",
@@ -14,7 +14,10 @@
     "static/media/tightrope.mp4": "/static/media/tightrope.38fca87f8f479b82f321.mp4",
     "static/media/balance.mp4": "/static/media/balance.3234873958b24a31d599.mp4",
     "static/media/Palanthas.png": "/static/media/Palanthas.fda82bd98e385b719a2d.png",
+    "static/media/Give.pdf": "/static/media/Give.3eb560d1f5226df8c594.pdf",
     "static/media/GiveYourAll.png": "/static/media/GiveYourAll.fa0d8a6c552bb3866ca0.png",
+    "static/media/Smoke.pdf": "/static/media/Smoke.dbad8fe206ecbdfa9841.pdf",
+    "static/media/Tear.pdf": "/static/media/Tear.78275e3e69a3bbaab777.pdf",
     "static/media/ShipCollector.png": "/static/media/ShipCollector.b4ef759b45af5c074dc6.png",
     "static/media/IntoInfinity.png": "/static/media/IntoInfinity.08c71c5f22bb73a20e15.png",
     "static/media/OneArmedBandit.png": "/static/media/OneArmedBandit.78bc102ae651a0679fc9.png",
@@ -22,11 +25,11 @@
     "static/media/github.png": "/static/media/github.26e6205fcb22875c276c.png",
     "index.html": "/index.html",
     "main.c3c187a4.css.map": "/static/css/main.c3c187a4.css.map",
-    "main.af44ca0d.js.map": "/static/js/main.af44ca0d.js.map",
+    "main.79c5028b.js.map": "/static/js/main.79c5028b.js.map",
     "787.848ff6fc.chunk.js.map": "/static/js/787.848ff6fc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c3c187a4.css",
-    "static/js/main.af44ca0d.js"
+    "static/js/main.79c5028b.js"
   ]
 }
