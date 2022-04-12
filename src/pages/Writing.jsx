@@ -43,7 +43,7 @@ export default function Writing() {
 										</p>
           <ul className="WritingList">
 												<li>
-														<a href={Tear} target="_blank" type="application/pdf">Sample 1: The Science Behind Tear Gas: Conceptual/Reference/Task Document</a>
+														<a href={Tear} target="_blank" type="application/pdf">Sample 1: The Science Behind Tear Gas: Conceptual/Reference Document</a>
 												</li>
 												<li>
 														<a href={Smoke} target="_blank" type="application/pdf">Sample 2: MacGyver Smoke Powder lab procedure: Conceptual/Reference/Task Document</a>
