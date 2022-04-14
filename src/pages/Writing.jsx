@@ -1,5 +1,8 @@
 import Navbar from "../components/Navbar.jsx";
 import Copyright from "../components/Copyright.jsx";
+import Tear from "../PDFs/Tear.pdf";
+import Smoke from "../PDFs/Smoke.pdf";
+import Give from "../PDFs/Give.pdf";
 
 export default function Writing() {
   return (
@@ -36,17 +39,17 @@ export default function Writing() {
         </p>
         <div id="TechWriting">
 										<p>
-												As a budding Technical Writer, I have continued to write in less conversational, more clarified formats. Click the links below to view samples in PDF format.
+												As a budding Technical Writer, I have continued to write in less conversational, more structured formats. Click the links below to view samples in PDF format.
 										</p>
           <ul className="WritingList">
 												<li>
-														<a href="TheIanCannon.github.io/PDFs/Tear.pdf">Sample 1: The Science Behind Tear Gas: Conceptual/Reference/Task Document</a>
+														<a href={Tear} target="_blank" type="application/pdf">Sample 1: The Science Behind Tear Gas: Conceptual/Reference Document</a>
 												</li>
 												<li>
-														<a href="TheIanCannon.github.io/PDFs/Smoke.pdf">Sample 2: MacGyver Smoke Powder lab procedure: Conceptual/Reference/Task Document</a>
+														<a href={Smoke} target="_blank" type="application/pdf">Sample 2: MacGyver Smoke Powder lab procedure: Conceptual/Reference/Task Document</a>
 												</li>
 												<li>
-														<a href="TheIanCannon.github.io/PDFs/Give.pdf">Sample 3: Readme.MD for a charity app: Conceptual/List/Task Document</a>
+														<a href={Give} target="_blank" type="application/pdf">Sample 3: Readme.MD for a charity app: Conceptual/List/Task Document</a>
 												</li>
           </ul>
         </div>
